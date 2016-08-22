@@ -1,0 +1,12 @@
+/* Base Application Styles */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.clearfixed::after{
+  content: "";
+  display: block;
+  clear: both;
+}

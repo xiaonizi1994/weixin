@@ -1,0 +1,15 @@
+.right {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.right .phone {
+  color: red;
+  font-size: 13px;
+}
+
+.auth-header {
+  width: 100%;
+  background: #404040;
+  height: 64px;
+}

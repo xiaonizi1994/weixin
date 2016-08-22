@@ -1,0 +1,9 @@
+.right {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.right .phone {
+  color: #fff;
+  font-size: 13px;
+}
