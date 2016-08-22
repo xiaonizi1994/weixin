@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea5b07e4-68b4-482b-b6f5-b33421618e8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="电子锁旖旎.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -463,12 +463,12 @@
       <workItem from="1471762460388" duration="7701000" />
       <workItem from="1471770723930" duration="597000" />
       <workItem from="1471827619123" duration="2932000" />
-      <workItem from="1471831116662" duration="2202000" />
+      <workItem from="1471831116662" duration="2801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42625000" />
+    <option name="totallyTimeSpent" value="43224000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,7 +480,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.45255473" order="0" side_tool="false" content_ui="combo" />
